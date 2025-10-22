@@ -1,0 +1,21 @@
+File: brainstorm.txt
+
+1.  5 Topics related to astronomy, physics, technology, etc. that we found
+    interesting were Telescopes, planets, rockets, aerospace engineering, galaxies, nebulae, space debris
+
+2.  space debris impact on airplane https://timesofindia.indiatimes.com/world/us/panic-at-36000-feet-boeing-737s-windshield-cracks-mid-air-space-debris-to-blame/articleshow/124698979.cms
+    - this explores the impact of space debris and how dangerous it can be 
+    F-15 destroying satelite in space https://theaviationgeekclub.com/the-story-of-the-celestial-eagle-the-only-f-15-fighter-jet-to-destroy-a-satellite/
+    - this explores the importance of accuracy in regard to launching projectiles, deals with trajectory physics
+    mapping space debris trajectory https://www.sciencedirect.com/science/article/pii/S0094576525000396
+    - this explores the methods going about tracking and mapping the trajectories of space debris
+
+3.  in regard to space debris, we could use loops to constantly measure and map out space debris
+    or satelite trajectories to accurately launch an object to such debris. This would deal with trajectory physics.
+
+4.  a possible ambitious project idea could involve shooting down space debris with the help of physics trajectory equations
+    while also making sure other objects (like planes, or kites) aren't in the way.
+    another project idea could essentially be the same without much real-world influences and factors.
+
+    
+    
